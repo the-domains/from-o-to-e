@@ -1,0 +1,28 @@
+name: from.O.to.E
+favicon: null
+layout_spectrum: 0.639647753443569
+typography_spectrum: 0.02460867865011096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6424045108724385
+  lightness: 0.4910438631195575
+  saturation: 0.009513516211882234
+  rhythmicContrast: 0.844188841059804
+purpose: []
